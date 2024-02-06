@@ -1,0 +1,570 @@
+,Player,Nation,Pos,Squad,Age,90s_played,TotalAtt_Pass,TotalComp_Passes,Pass_Blocked,Live_Passes,Dead_Passes,Switches_Pass,Cross_Passes
+0,Brenden Aaronson,us USA,"MF,FW",Leeds United,21,26.4,797,592,27,711,85,2,72
+1,George Abbott,eng ENG,MF,Tottenham,16,0.0,1,1,0,1,0,0,0
+2,Che Adams,sct SCO,FW,Southampton,26,22.1,498,330,17,490,7,7,12
+3,Tyler Adams,us USA,MF,Leeds United,23,24.0,1343,1108,24,1271,72,2,2
+4,Tosin Adarabioyo,eng ENG,DF,Fulham,24,23.2,1300,1066,10,1235,58,12,2
+5,Nayef Aguerd,ma MAR,DF,West Ham,26,17.7,763,599,5,723,36,21,0
+6,Naouirou Ahamada,fr FRA,"MF,FW",Crystal Palace,20,1.0,46,37,0,45,1,0,2
+7,Rayan Aït Nouri,dz ALG,DF,Wolves,21,12.0,578,470,18,487,89,2,21
+8,Kristoffer Ajer,no NOR,DF,Brentford,24,8.5,345,259,8,293,51,4,6
+9,Manuel Akanji,ch SUI,DF,Manchester City,27,25.4,2056,1912,8,1999,55,8,6
+10,Nathan Aké,nl NED,DF,Manchester City,27,20.8,1813,1639,26,1685,126,6,15
+11,Marc Albrighton,eng ENG,"FW,MF",Leicester City,32,2.6,148,89,10,130,17,0,28
+12,Thiago Alcántara,es ESP,MF,Liverpool,31,13.9,1097,946,22,1063,31,15,3
+13,Carlos Alcaraz,ar ARG,"MF,FW",Southampton,19,11.4,290,222,10,279,9,4,4
+14,Trent Alexander-Arnold,eng ENG,DF,Liverpool,23,32.5,2912,2188,37,2393,509,59,252
+15,Alisson,br BRA,GK,Liverpool,29,37.0,1453,1241,1,1199,250,2,0
+16,Dele Alli,eng ENG,MF,Everton,26,0.4,15,12,0,13,2,0,0
+17,Miguel Almirón,py PAR,FW,Newcastle Utd,28,27.7,982,811,29,946,30,4,26
+18,Julián Álvarez,ar ARG,"FW,MF",Manchester City,22,16.3,503,395,17,478,21,3,26
+19,Daniel Amartey,gh GHA,DF,Leicester City,27,17.9,1114,1015,2,1092,20,2,0
+20,Samuel Amo-Ameyaw,eng ENG,MF,Southampton,16,0.0,6,5,0,6,0,0,0
+21,Joachim Andersen,dk DEN,DF,Crystal Palace,26,30.9,1972,1561,13,1840,123,44,10
+22,Elliot Anderson,sct SCO,"MF,FW",Newcastle Utd,19,4.6,198,150,10,193,3,0,9
+23,Jaidon Anthony,eng ENG,"MF,FW",Bournemouth,22,14.0,526,387,18,480,45,5,43
+24,Michail Antonio,jm JAM,FW,West Ham,32,20.3,348,186,18,335,12,1,35
+25,Antony,br BRA,FW,Manchester Utd,22,20.0,819,651,29,804,15,2,32
+26,Cameron Archer,eng ENG,"FW,MF",Aston Villa,21,0.5,12,8,1,11,1,0,1
+27,Alphonse Areola,fr FRA,GK,West Ham,29,3.4,92,67,0,59,32,0,0
+28,Joe Aribo,ng NGA,"MF,FW",Southampton,26,13.6,385,280,16,376,9,0,8
+29,Adam Armstrong,eng ENG,"FW,MF",Southampton,25,14.8,302,220,21,267,35,4,14
+30,Stuart Armstrong,sct SCO,"MF,FW",Southampton,30,15.6,676,531,24,634,40,3,37
+31,Kepa Arrizabalaga,es ESP,GK,Chelsea,27,28.5,1046,871,1,805,241,3,0
+32,Pierre-Emerick Aubameyang,ga GAB,FW,Chelsea,33,6.2,111,82,5,101,10,0,3
+33,Ludwig Augustinsson,se SWE,DF,Aston Villa,28,0.9,43,26,0,34,9,0,5
+34,Serge Aurier,ci CIV,DF,Nott'ham Forest,29,21.6,943,667,28,758,183,0,40
+35,Taiwo Awoniyi,ng NGA,FW,Nott'ham Forest,24,15.6,223,143,9,220,3,1,3
+36,Yasin Ayari,se SWE,MF,Brighton,18,0.7,23,20,0,22,0,0,0
+37,André Ayew,gh GHA,"FW,MF",Nott'ham Forest,32,3.5,73,53,0,68,5,0,1
+38,Jordan Ayew,gh GHA,"FW,MF",Crystal Palace,30,30.2,875,676,34,860,13,1,43
+39,Luke Ayling,eng ENG,DF,Leeds United,30,22.8,1132,786,46,912,212,11,62
+40,César Azpilicueta,es ESP,DF,Chelsea,32,17.0,1065,872,14,893,169,0,26
+41,Benoît Badiashile,fr FRA,DF,Chelsea,21,10.1,860,769,4,840,19,6,2
+42,Leon Bailey,jm JAM,"FW,MF",Aston Villa,24,21.9,547,337,31,507,40,5,96
+43,Stefan Bajcetic,es ESP,MF,Liverpool,17,5.8,258,200,6,255,3,3,5
+44,Dominic Ballard,eng ENG,"FW,MF",Southampton,17,0.3,7,5,0,5,2,0,0
+45,Patrick Bamford,eng ENG,FW,Leeds United,28,16.8,333,229,10,294,38,0,5
+46,Shandon Baptiste,gd GRN,MF,Brentford,24,6.9,295,247,7,287,6,0,11
+47,Harvey Barnes,eng ENG,"FW,MF",Leicester City,24,30.1,786,549,31,769,10,1,44
+48,Gavin Bazunu,ie IRL,GK,Southampton,20,32.0,1178,718,0,847,325,1,0
+49,Mads Bech Sørensen,dk DEN,"DF,MF",Brentford,23,0.2,11,7,0,7,4,0,0
+50,Jan Bednarek,pl POL,DF,Southampton,26,18.6,902,753,8,849,52,3,1
+51,Jan Bednarek,pl POL,DF,Aston Villa,26,1.1,66,60,1,64,2,0,0
+52,Donny van de Beek,nl NED,MF,Manchester Utd,25,1.9,61,46,4,56,3,0,0
+53,Asmir Begović,ba BIH,GK,Everton,35,1.0,30,21,0,21,9,0,0
+54,Armel Bella Kotchap,de GER,DF,Southampton,20,20.9,937,749,12,908,28,9,4
+55,Saïd Benrahma,dz ALG,"FW,MF",West Ham,26,23.0,796,597,29,771,20,2,83
+56,Rodrigo Bentancur,uy URU,MF,Tottenham,25,16.7,880,738,19,852,25,3,16
+57,Daniel Bentley,eng ENG,GK,Wolves,29,2.0,80,61,0,52,28,0,0
+58,Victor Bernth Kristiansen,dk DEN,DF,Leicester City,19,9.9,496,327,16,376,117,0,29
+59,Owen Bevan,wls WAL,DF,Bournemouth,18,0.1,3,2,1,3,0,0,0
+60,Giulian Biancone,fr FRA,DF,Nott'ham Forest,22,0.2,21,15,0,19,2,0,1
+61,Philip Billing,dk DEN,"MF,FW",Bournemouth,26,30.7,1055,813,32,1009,43,10,38
+62,Yves Bissouma,ml MLI,MF,Tottenham,25,11.2,733,666,12,714,16,5,2
+63,Willy Boly,ci CIV,DF,Nott'ham Forest,31,7.6,258,194,3,254,4,0,0
+64,Sven Botman,nl NED,DF,Newcastle Utd,22,34.7,1765,1527,7,1717,42,30,1
+65,Jarrod Bowen,eng ENG,"FW,MF",West Ham,25,35.9,881,552,58,768,109,4,159
+66,James Bree,eng ENG,DF,Southampton,24,4.1,178,133,4,150,28,1,13
+67,Armando Broja,al ALB,FW,Chelsea,20,3.3,53,33,0,51,2,1,0
+68,David Brooks,wls WAL,"FW,MF",Bournemouth,25,1.9,63,46,3,61,2,0,6
+69,Lewis Brunt,eng ENG,DF,Leicester City,21,0.3,21,17,1,16,5,0,0
+70,Emi Buendía,ar ARG,"MF,FW",Aston Villa,25,26.8,1020,787,38,954,63,7,18
+71,Hugo Bueno,es ESP,DF,Wolves,19,14.6,679,547,21,536,140,0,60
+72,Facundo Buonanotte,ar ARG,"FW,MF",Brighton,17,6.3,194,157,5,190,4,1,7
+73,Dan Burn,eng ENG,DF,Newcastle Utd,30,34.6,1715,1361,29,1437,275,7,17
+74,Cafú,pt POR,MF,Nott'ham Forest,29,0.1,2,2,0,2,0,0,0
+75,Moisés Caicedo,ec ECU,MF,Brighton,20,34.9,2251,1993,38,2214,37,9,17
+76,Tom Cairney,sct SCO,MF,Fulham,31,11.0,750,632,13,715,33,4,37
+77,Duje Ćaleta-Car,hr CRO,DF,Southampton,25,10.5,568,480,1,542,22,3,1
+78,Dominic Calvert-Lewin,eng ENG,FW,Everton,25,12.9,221,131,9,220,1,1,6
+79,Chem Campbell,wls WAL,"FW,MF",Wolves,19,0.8,32,23,1,31,1,0,4
+80,João Cancelo,pt POR,DF,Manchester City,28,14.2,1220,1036,15,1120,98,14,45
+81,Thomas Cannon,ie IRL,FW,Everton,19,0.3,5,4,0,4,1,0,0
+82,Sergi Canós,es ESP,"FW,DF",Brentford,25,0.9,43,23,0,39,3,0,3
+83,Diego Carlos,br BRA,DF,Aston Villa,29,2.3,142,112,1,136,5,1,1
+84,Fabio Carvalho,pt POR,"MF,FW",Liverpool,19,3.9,143,117,3,140,2,0,2
+85,Casemiro,br BRA,MF,Manchester Utd,30,23.6,1439,1114,29,1408,24,13,19
+86,Matty Cash,pl POL,DF,Aston Villa,24,20.2,1006,777,24,809,194,6,46
+87,Timothy Castagne,be BEL,DF,Leicester City,26,36.2,1836,1470,43,1545,287,2,58
+88,Jonny Castro,es ESP,DF,Wolves,28,14.0,832,701,23,698,132,1,18
+89,Julio César Enciso,py PAR,"FW,MF",Brighton,18,9.0,258,179,5,249,8,1,12
+90,Nathaniel Chalobah,eng ENG,MF,Fulham,27,0.1,5,4,0,5,0,0,0
+91,Trevoh Chalobah,eng ENG,DF,Chelsea,23,17.9,1200,1051,11,1132,66,4,13
+92,Calum Chambers,eng ENG,"DF,MF",Aston Villa,27,3.9,207,157,1,191,13,1,4
+93,Shea Charles,nir NIR,DF,Manchester City,18,0.3,25,23,1,22,3,0,0
+94,Ben Chilwell,eng ENG,"DF,MF",Chelsea,25,15.6,977,762,18,774,198,5,92
+95,Ryan Christie,sct SCO,"MF,FW",Bournemouth,27,20.4,651,521,16,621,28,7,32
+96,Carney Chukwuemeka,eng ENG,"MF,FW",Chelsea,18,3.9,203,179,6,202,1,2,3
+97,Bobby Clark,eng ENG,MF,Liverpool,17,0.1,1,1,0,1,0,0,0
+98,Nathaniel Clyne,eng ENG,DF,Crystal Palace,31,18.2,832,654,12,674,156,3,21
+99,Conor Coady,eng ENG,DF,Everton,29,23.3,1209,1025,1,1169,35,10,1
+100,Jack Colback,eng ENG,MF,Nott'ham Forest,32,5.5,143,119,3,139,4,0,1
+101,Séamus Coleman,ie IRL,DF,Everton,33,18.4,789,597,20,615,174,3,22
+102,Nathan Collins,ie IRL,DF,Wolves,21,20.2,1138,1001,5,1112,23,9,0
+103,Levi Colwill,eng ENG,DF,Brighton,19,13.6,1165,1027,6,1096,64,1,1
+104,Lewis Cook,eng ENG,MF,Bournemouth,25,19.1,751,593,20,692,56,3,45
+105,Steve Cook,eng ENG,DF,Nott'ham Forest,31,10.6,459,369,2,445,13,6,1
+106,Liam Cooper,sct SCO,DF,Leeds United,30,15.8,789,620,3,756,33,8,1
+107,Maxwel Cornet,ci CIV,FW,West Ham,25,2.7,97,72,7,93,2,0,6
+108,Diego Costa,es ESP,FW,Wolves,33,13.8,221,158,13,204,17,0,6
+109,Vladimír Coufal,cz CZE,DF,West Ham,29,23.7,1174,730,47,907,260,0,113
+110,Philippe Coutinho,br BRA,"MF,FW",Aston Villa,30,8.8,384,288,7,352,30,1,19
+111,Conor Coventry,ie IRL,"MF,FW",West Ham,22,0.0,0,0,0,0,0,0,0
+112,Matthew Craig,sct SCO,MF,Tottenham,19,0.2,6,5,0,6,0,0,0
+113,Aaron Cresswell,eng ENG,DF,West Ham,32,24.8,1448,1127,35,1157,288,5,133
+114,Marc Cucurella,es ESP,DF,Chelsea,24,18.6,1293,1090,26,1093,192,2,44
+115,Matheus Cunha,br BRA,FW,Wolves,23,10.7,234,171,7,214,19,0,8
+116,Patson Daka,zm ZAM,FW,Leicester City,23,13.2,295,195,11,264,29,0,8
+117,Diogo Dalot,pt POR,DF,Manchester Utd,23,23.9,1441,1141,35,1216,219,20,44
+118,Mikkel Damsgaard,dk DEN,"MF,FW",Brentford,22,11.0,407,275,12,387,14,2,29
+119,Danilo,br BRA,MF,Nott'ham Forest,21,10.8,235,148,18,225,7,1,3
+120,Arnaut Danjuma,nl NED,"FW,MF",Tottenham,25,1.9,56,39,4,56,0,0,2
+121,Josh Dasilva,eng ENG,MF,Brentford,23,15.4,617,491,17,591,25,1,33
+122,David Datro Fofana,ci CIV,FW,Chelsea,19,0.8,9,7,0,9,0,0,1
+123,Ben Davies,wls WAL,DF,Tottenham,29,25.4,1281,1040,22,1190,87,8,35
+124,Tom Davies,eng ENG,MF,Everton,24,6.0,234,173,6,227,6,3,2
+125,Craig Dawson,eng ENG,DF,West Ham,32,8.0,310,245,3,299,9,2,2
+126,Craig Dawson,eng ENG,DF,Wolves,32,15.7,926,780,3,897,27,4,0
+127,Kevin De Bruyne,be BEL,MF,Manchester City,31,26.9,1626,1192,41,1454,160,27,226
+128,Siriki Dembélé,ci CIV,"FW,MF",Bournemouth,25,1.2,47,37,1,45,2,0,3
+129,Leander Dendoncker,be BEL,MF,Aston Villa,27,7.7,284,248,5,278,5,0,2
+130,Leander Dendoncker,be BEL,MF,Wolves,27,2.4,99,86,5,96,3,2,1
+131,Emmanuel Dennis,ng NGA,"FW,MF",Nott'ham Forest,24,8.0,183,124,14,178,4,0,11
+132,Halil Dervişoğlu,tr TUR,MF,Brentford,22,0.1,0,0,0,0,0,0,0
+133,Kiernan Dewsbury-Hall,eng ENG,MF,Leicester City,23,25.6,1154,872,26,1120,24,20,46
+134,Ibrahima Diallo,fr FRA,MF,Southampton,23,9.1,402,317,9,395,7,2,4
+135,Rúben Dias,pt POR,DF,Manchester City,25,22.2,2080,1928,7,2029,51,6,1
+136,Luis Díaz,co COL,FW,Liverpool,25,11.1,462,376,15,453,7,7,8
+137,Eric Dier,eng ENG,DF,Tottenham,28,31.3,2001,1708,15,1929,68,17,11
+138,Lucas Digne,fr FRA,DF,Aston Villa,29,16.7,927,696,23,749,177,4,77
+139,Issa Diop,fr FRA,DF,Fulham,25,22.4,1399,1216,8,1352,46,8,2
+140,Moussa Djenepo,ml MLI,"DF,FW",Southampton,24,7.9,244,179,11,216,27,2,12
+141,Ben Doak,sct SCO,FW,Liverpool,16,0.3,14,10,1,14,0,0,0
+142,Matt Doherty,ie IRL,"DF,MF",Tottenham,30,7.4,408,329,8,345,61,1,18
+143,Gabriel Dos Santos,br BRA,DF,Arsenal,24,37.9,2411,2155,19,2318,89,11,5
+144,Abdoulaye Doucouré,ml MLI,MF,Everton,29,17.0,548,430,14,530,16,0,8
+145,Cheick Doucouré,ml MLI,MF,Crystal Palace,22,30.8,1247,1038,30,1229,16,2,6
+146,Flynn Downes,eng ENG,MF,West Ham,23,8.5,331,289,6,323,7,2,3
+147,Kami Doyle,eng ENG,MF,Southampton,16,0.1,5,5,0,5,0,0,0
+148,Cody Drameh,eng ENG,DF,Leeds United,20,0.8,38,30,1,31,7,0,1
+149,Martin Dúbravka,sk SVK,GK,Newcastle Utd,33,1.7,54,49,0,38,16,0,0
+150,Shane Duffy,ie IRL,"DF,FW",Fulham,30,0.2,20,16,0,19,1,0,0
+151,Lewis Dunk,eng ENG,DF,Brighton,30,36.0,3223,2911,13,3064,156,21,2
+152,Jhon Durán,co COL,"FW,MF",Aston Villa,18,1.5,29,16,1,26,3,0,2
+153,Malcolm Ebiowei,eng ENG,"MF,FW",Crystal Palace,18,0.4,10,5,2,10,0,0,3
+154,Ederson,br BRA,GK,Manchester City,28,35.0,1257,1079,1,1049,207,8,0
+155,Odsonne Édouard,fr FRA,FW,Crystal Palace,24,20.0,412,295,12,390,20,0,4
+156,Samuel Edozie,eng ENG,"FW,MF",Southampton,19,6.3,164,111,12,163,0,0,11
+157,Anthony Elanga,se SWE,FW,Manchester Utd,20,4.7,130,95,2,127,3,1,7
+158,Harvey Elliott,eng ENG,"MF,FW",Liverpool,19,17.9,1009,809,24,962,39,4,34
+159,Mohamed Elneny,eg EGY,MF,Arsenal,30,1.3,60,57,1,58,2,0,0
+160,Mohamed Elyounoussi,no NOR,"MF,FW",Southampton,27,24.1,633,426,22,610,21,1,34
+161,Emerson,br BRA,DF,Tottenham,23,19.3,1060,848,37,884,170,6,46
+162,Christian Eriksen,dk DEN,MF,Manchester Utd,30,22.8,1485,1203,28,1373,106,20,81
+163,Pervis Estupiñán,ec ECU,DF,Brighton,24,29.7,1926,1576,57,1687,234,8,101
+164,Jonny Evans,nir NIR,DF,Leicester City,34,11.7,789,690,4,764,24,2,0
+165,Eberechi Eze,eng ENG,"MF,FW",Crystal Palace,24,29.3,1178,923,15,1019,149,5,78
+166,Łukasz Fabiański,pl POL,GK,West Ham,37,34.6,930,598,0,587,339,2,0
+167,Fabinho,br BRA,MF,Liverpool,28,29.7,1832,1617,18,1789,38,6,5
+168,Wout Faes,be BEL,DF,Leicester City,24,31.0,1846,1581,10,1789,54,9,0
+169,Felipe,br BRA,DF,Nott'ham Forest,33,15.8,568,411,11,545,20,3,2
+170,João Félix,pt POR,"FW,MF",Chelsea,22,10.5,356,274,9,314,39,4,19
+171,Evan Ferguson,ie IRL,FW,Brighton,17,10.6,225,180,3,203,21,0,2
+172,Bruno Fernandes,pt POR,"MF,FW",Manchester Utd,27,36.8,2030,1498,65,1838,182,36,141
+173,Enzo Fernández,ar ARG,MF,Chelsea,21,17.2,1440,1269,13,1381,56,17,14
+174,Roberto Firmino,br BRA,"FW,MF",Liverpool,30,13.5,566,444,21,548,16,0,12
+175,Junior Firpo,es ESP,DF,Leeds United,25,15.2,621,454,18,505,114,1,12
+176,Phil Foden,eng ENG,FW,Manchester City,22,20.5,1111,904,32,1046,61,4,91
+177,Wesley Fofana,fr FRA,DF,Leicester City,21,2.0,140,117,3,138,1,0,0
+178,Wesley Fofana,fr FRA,DF,Chelsea,21,13.1,872,779,4,842,29,3,3
+179,Pablo Fornals,es ESP,"FW,MF",West Ham,26,16.7,771,557,22,719,48,10,59
+180,Adam Forshaw,eng ENG,MF,Leeds United,30,5.3,244,196,4,222,22,2,20
+181,Fraser Forster,eng ENG,GK,Tottenham,34,13.5,363,266,1,241,121,0,0
+182,Tyrese Francois,au AUS,FW,Fulham,22,0.0,2,2,0,2,0,0,0
+183,Ryan Fraser,sct SCO,FW,Newcastle Utd,28,3.5,122,85,4,112,7,0,13
+184,Fred,br BRA,MF,Manchester Utd,29,13.9,781,618,26,761,16,1,14
+185,Ryan Fredericks,eng ENG,DF,Bournemouth,29,5.9,220,149,11,177,43,0,15
+186,Remo Freuler,ch SUI,MF,Nott'ham Forest,30,24.0,836,664,17,812,23,2,5
+187,Cody Gakpo,nl NED,"FW,MF",Liverpool,23,16.2,392,293,11,381,9,0,17
+188,Conor Gallagher,eng ENG,MF,Chelsea,22,18.0,871,706,29,818,50,6,49
+189,Idrissa Gana Gueye,sn SEN,MF,Everton,32,28.6,1226,1025,23,1205,17,4,10
+190,Alejandro Garnacho,ar ARG,"FW,MF",Manchester Utd,18,6.3,187,150,7,187,0,2,2
+191,James Garner,eng ENG,"MF,DF",Everton,21,8.9,353,256,9,310,41,2,37
+192,David de Gea,es ESP,GK,Manchester Utd,31,38.0,1218,866,1,968,243,3,0
+193,Joe Gelhardt,eng ENG,FW,Leeds United,20,2.4,67,43,4,62,3,0,1
+194,Saman Ghoddos,ir IRN,"MF,FW",Brentford,28,1.5,79,59,1,68,11,0,7
+195,Morgan Gibbs-White,eng ENG,"FW,MF",Wolves,22,2.0,95,75,2,88,7,1,8
+196,Morgan Gibbs-White,eng ENG,"MF,FW",Nott'ham Forest,22,33.0,1078,659,30,891,171,8,161
+197,Bryan Gil,es ESP,"MF,FW",Tottenham,21,1.6,60,47,3,57,3,0,2
+198,Billy Gilmour,sct SCO,MF,Brighton,21,5.6,408,364,3,403,2,1,2
+199,Degnand Gnonto,it ITA,"FW,MF",Leeds United,18,15.0,512,370,35,482,26,0,42
+200,Ben Godfrey,eng ENG,DF,Everton,24,8.9,281,182,9,232,48,0,7
+201,João Gomes,br BRA,MF,Wolves,21,7.3,322,250,9,307,14,3,8
+202,Toti Gomes,pt POR,DF,Wolves,23,10.9,555,460,5,499,55,5,9
+203,Joe Gomez,eng ENG,DF,Liverpool,25,16.3,1361,1166,5,1316,39,11,4
+204,Sergio Gómez,es ESP,"DF,MF",Manchester City,21,3.9,317,279,7,287,30,0,8
+205,Anthony Gordon,eng ENG,"FW,MF",Newcastle Utd,21,5.4,198,162,4,191,4,0,9
+206,Anthony Gordon,eng ENG,FW,Everton,21,12.2,280,193,10,272,7,1,25
+207,Demarai Gray,jm JAM,"FW,MF",Everton,26,27.9,838,579,38,666,172,8,173
+208,Jack Grealish,eng ENG,FW,Manchester City,26,22.8,1072,902,35,1011,56,8,53
+209,Sam Greenwood,eng ENG,"MF,FW",Leeds United,20,4.7,186,107,2,143,43,1,43
+210,Pascal Groß,de GER,"MF,DF",Brighton,31,36.0,2347,1879,50,2004,333,20,224
+211,Vicente Guaita,es ESP,GK,Crystal Palace,35,27.0,845,610,0,590,251,4,0
+212,Gonçalo Guedes,pt POR,"FW,MF",Wolves,25,7.9,201,138,8,182,19,4,27
+213,Marc Guéhi,eng ENG,DF,Crystal Palace,22,37.0,2208,1883,12,2124,79,29,0
+214,Bruno Guimarães,br BRA,MF,Newcastle Utd,24,30.3,1668,1387,29,1617,42,20,22
+215,İlkay Gündoğan,de GER,MF,Manchester City,31,26.1,1578,1374,27,1519,56,6,30
+216,Darko Gyabi,eng ENG,FW,Leeds United,18,0.1,4,4,0,4,0,0,0
+217,Erling Haaland,no NOR,FW,Manchester City,22,30.8,500,360,21,449,45,0,12
+218,Lewis Hall,eng ENG,DF,Chelsea,17,7.3,427,343,8,369,57,3,34
+219,Luke Harris,wls WAL,"MF,FW",Fulham,17,0.1,14,13,0,14,0,0,1
+220,Jack Harrison,eng ENG,"FW,MF",Leeds United,25,30.1,1150,732,55,1012,131,11,186
+221,Kai Havertz,de GER,"FW,MF",Chelsea,23,28.5,894,727,24,850,41,4,14
+222,Jan Paul van Hecke,nl NED,DF,Brighton,22,3.3,248,232,3,242,5,0,0
+223,Hwang Hee-chan,kr KOR,"FW,MF",Wolves,26,12.6,280,214,9,266,13,1,10
+224,Dean Henderson,eng ENG,GK,Nott'ham Forest,25,18.0,671,425,0,455,214,0,0
+225,Jordan Henderson,eng ENG,MF,Liverpool,32,23.0,1615,1341,32,1554,53,11,45
+226,Wayne Hennessey,wls WAL,GK,Nott'ham Forest,35,3.0,99,61,0,63,34,0,0
+227,Rico Henry,eng ENG,DF,Brentford,25,36.0,1203,876,21,1059,138,2,87
+228,Son Heung-min,kr KOR,"MF,FW",Tottenham,30,32.1,909,680,28,780,123,0,113
+229,Aaron Hickey,sct SCO,DF,Brentford,20,21.3,838,695,17,743,93,1,27
+230,Jack Hinshelwood,eng ENG,FW,Brighton,17,0.0,3,1,0,3,0,0,0
+231,Joseph Hodge,ie IRL,MF,Wolves,19,1.9,100,80,4,96,2,0,1
+232,Rob Holding,eng ENG,DF,Arsenal,26,6.3,442,382,3,430,10,2,0
+233,Mason Holgate,eng ENG,DF,Everton,25,5.6,217,143,2,191,24,5,2
+234,Will Hughes,eng ENG,MF,Crystal Palace,27,9.4,373,296,12,355,16,0,12
+235,Omari Hutchinson,eng ENG,FW,Chelsea,18,0.3,13,9,1,13,0,0,2
+236,Pierre Højbjerg,dk DEN,MF,Tottenham,26,34.8,2292,2021,28,2206,81,39,15
+237,Kelechi Iheanacho,ng NGA,"FW,MF",Leicester City,25,12.5,316,236,12,304,9,3,6
+238,Danny Ings,eng ENG,FW,West Ham,30,8.6,148,92,8,146,2,1,0
+239,Danny Ings,eng ENG,FW,Aston Villa,30,9.2,162,114,6,152,10,0,4
+240,Alexander Isak,se SWE,FW,Newcastle Utd,22,16.9,368,279,12,338,25,2,7
+241,Daniel Iversen,dk DEN,GK,Leicester City,25,12.0,377,212,1,214,161,1,0
+242,Alex Iwobi,ng NGA,"MF,FW",Everton,26,37.5,1536,1154,46,1469,58,13,104
+243,Daniel James,wls WAL,FW,Leeds United,24,2.2,40,24,4,40,0,0,6
+244,Daniel James,wls WAL,FW,Fulham,24,6.9,186,120,16,182,4,0,26
+245,Reece James,eng ENG,"DF,MF",Chelsea,22,13.8,1051,891,16,896,151,5,91
+246,Vitaly Janelt,de GER,"MF,DF",Brentford,24,24.5,1020,812,21,986,29,17,22
+247,Pontus Jansson,se SWE,DF,Brentford,31,8.0,321,257,3,309,11,0,0
+248,Mathias Jensen,dk DEN,MF,Brentford,26,31.1,1566,1088,25,1158,401,28,158
+249,Gabriel Jesus,br BRA,FW,Arsenal,25,22.9,699,561,19,635,62,5,11
+250,Raúl Jiménez,mx MEX,FW,Wolves,31,9.4,198,140,5,173,25,2,5
+251,Joelinton,br BRA,"MF,FW",Newcastle Utd,25,29.6,1268,1035,40,1227,38,4,16
+252,Ben Johnson,eng ENG,DF,West Ham,22,9.6,535,395,12,463,71,7,16
+253,Brennan Johnson,wls WAL,"FW,MF",Nott'ham Forest,21,32.6,505,291,27,480,23,2,58
+254,Sam Johnstone,eng ENG,GK,Crystal Palace,29,9.0,280,207,0,213,66,0,0
+255,Curtis Jones,eng ENG,MF,Liverpool,21,11.5,677,611,7,664,12,3,9
+256,Jorginho,it ITA,MF,Arsenal,30,9.5,736,641,8,718,16,2,2
+257,Jorginho,it ITA,MF,Chelsea,30,14.2,884,749,11,853,28,3,2
+258,Mateo Joseph,eng ENG,"FW,MF",Leeds United,18,0.3,3,2,0,3,0,0,0
+259,Diogo Jota,pt POR,FW,Liverpool,25,12.6,381,286,14,379,2,1,8
+260,Hamed Junior Traorè,ci CIV,"FW,MF",Bournemouth,22,4.7,178,109,4,149,28,0,41
+261,James Justin,eng ENG,DF,Leicester City,24,13.9,819,667,19,687,130,4,21
+262,Mathias Jørgensen,dk DEN,DF,Brentford,32,12.3,503,404,2,437,65,0,3
+263,Sasa Kalajdzic,at AUT,FW,Wolves,25,0.5,4,2,1,4,0,0,0
+264,Boubacar Kamara,fr FRA,MF,Aston Villa,22,19.7,941,798,20,907,34,10,1
+265,Harry Kane,eng ENG,FW,Tottenham,29,37.8,921,642,39,853,60,18,37
+266,N'Golo Kanté,fr FRA,MF,Chelsea,31,5.8,338,271,12,336,0,1,11
+267,Michael Keane,eng ENG,DF,Everton,29,10.9,441,305,8,429,9,0,4
+268,Neeskens Kebano,cd COD,FW,Fulham,30,8.5,212,155,16,206,6,1,24
+269,Thilo Kehrer,de GER,DF,West Ham,25,24.8,1112,927,14,992,116,6,23
+270,Naby Keïta,gn GUI,MF,Liverpool,27,3.3,168,129,7,161,6,0,2
+271,Caoimhín Kelleher,ie IRL,GK,Liverpool,23,1.0,24,23,0,22,2,0,0
+272,Lloyd Kelly,eng ENG,DF,Bournemouth,23,22.7,1164,934,12,1020,140,11,14
+273,Max Kilman,eng ENG,DF,Wolves,25,36.7,2107,1748,20,2069,29,31,5
+274,Jakub Kiwior,pl POL,DF,Arsenal,22,4.7,205,177,4,192,13,1,1
+275,Mateusz Klich,pl POL,"MF,FW",Leeds United,32,3.1,148,108,7,139,9,0,8
+276,Robin Koch,de GER,DF,Leeds United,26,35.3,1594,1229,25,1544,46,5,1
+277,Ibrahima Konaté,fr FRA,DF,Liverpool,23,17.2,1135,988,5,1115,19,6,1
+278,Ezri Konsa,eng ENG,DF,Aston Villa,24,36.9,1898,1681,14,1806,88,6,4
+279,Kalidou Koulibaly,sn SEN,DF,Chelsea,31,20.0,1471,1275,12,1421,45,15,4
+280,Cheikhou Kouyaté,sn SEN,MF,Nott'ham Forest,32,9.8,246,185,7,241,4,1,0
+281,Mateo Kovačić,hr CRO,MF,Chelsea,28,19.0,1319,1130,25,1289,29,10,6
+282,Emil Krafth,se SWE,DF,Newcastle Utd,27,0.0,0,0,0,0,0,0,0
+283,Dejan Kulusevski,se SWE,"MF,FW",Tottenham,22,23.0,746,582,26,684,61,3,62
+284,Layvin Kurzawa,fr FRA,DF,Fulham,29,1.5,41,28,2,29,12,0,2
+285,Adam Lallana,eng ENG,"MF,FW",Brighton,34,8.0,317,262,5,304,11,0,3
+286,Tariq Lamptey,gh GHA,DF,Brighton,21,5.0,302,239,6,258,44,1,31
+287,Manuel Lanzini,ar ARG,"MF,FW",West Ham,29,2.8,175,146,5,173,2,0,2
+288,Aymeric Laporte,es ESP,DF,Manchester City,28,11.0,964,892,5,926,37,6,6
+289,Juan Larios,es ESP,DF,Southampton,18,1.7,82,63,2,59,23,0,4
+290,Jamaal Lascelles,eng ENG,DF,Newcastle Utd,28,2.4,93,79,0,93,0,0,0
+291,Roméo Lavia,be BEL,MF,Southampton,18,24.7,997,859,22,985,10,9,3
+292,Dexter Lembikisa,jm JAM,DF,Wolves,18,0.3,13,10,2,12,1,0,1
+293,Mario Lemina,ga GAB,MF,Wolves,28,14.4,651,566,9,645,5,4,3
+294,Clément Lenglet,fr FRA,DF,Tottenham,27,22.4,1465,1270,11,1431,29,20,16
+295,Bernd Leno,de GER,GK,Fulham,30,36.0,1397,1110,0,1041,354,2,0
+296,Jefferson Lerma,co COL,MF,Bournemouth,27,36.1,1611,1317,24,1551,59,7,11
+297,Jamal Lewis,nir NIR,"DF,FW",Newcastle Utd,24,0.1,14,12,1,14,0,0,0
+298,Rico Lewis,eng ENG,"DF,MF",Manchester City,17,10.0,675,617,9,633,41,0,5
+299,Keane Lewis-Potter,eng ENG,"FW,MF",Brentford,21,3.6,86,49,3,83,3,1,8
+300,Victor Lindelöf,se SWE,DF,Manchester Utd,28,15.2,930,866,1,905,25,1,1
+301,Jesse Lingard,eng ENG,"FW,MF",Nott'ham Forest,29,10.3,297,236,5,271,24,4,5
+302,Valentino Livramento,eng ENG,"DF,FW",Southampton,19,0.3,26,21,1,18,8,0,0
+303,Diego Llorente,es ESP,DF,Leeds United,28,7.2,429,356,2,417,11,4,1
+304,Hugo Lloris,fr FRA,GK,Tottenham,35,24.5,728,561,1,513,212,0,0
+305,Renan Lodi,br BRA,DF,Nott'ham Forest,24,24.6,877,583,29,684,189,3,75
+306,Ruben Loftus-Cheek,eng ENG,"MF,DF",Chelsea,26,17.1,907,782,20,858,44,6,19
+307,Sean Longstaff,eng ENG,MF,Newcastle Utd,24,28.0,1163,943,31,1118,41,6,30
+308,Jamal Lowe,jm JAM,"MF,FW",Bournemouth,28,0.1,4,2,1,4,0,0,0
+309,Douglas Luiz,br BRA,MF,Aston Villa,24,32.5,1812,1494,16,1593,216,10,106
+310,Saša Lukić,rs SRB,MF,Fulham,25,4.6,218,192,0,211,7,0,2
+311,Lyanco,br BRA,DF,Southampton,25,13.1,558,400,7,494,63,6,7
+312,Alexis Mac Allister,ar ARG,MF,Brighton,23,32.1,1844,1586,43,1785,52,11,29
+313,James Maddison,eng ENG,"MF,FW",Leicester City,25,27.6,1150,844,29,998,142,8,123
+314,Noni Madueke,eng ENG,FW,Chelsea,20,7.1,286,223,9,278,8,0,19
+315,Harry Maguire,eng ENG,DF,Manchester Utd,29,8.5,577,491,3,564,12,9,1
+316,Riyad Mahrez,dz ALG,"FW,MF",Manchester City,31,21.3,1166,958,18,1028,138,7,96
+317,Kobbie Mainoo,eng ENG,MF,Manchester Utd,17,0.1,8,7,0,8,0,0,0
+318,Ainsley Maitland-Niles,eng ENG,"DF,MF",Southampton,24,15.6,713,565,12,633,77,3,20
+319,Tyrell Malacia,nl NED,DF,Manchester Utd,22,15.5,802,694,16,670,130,5,15
+320,Orel Mangala,be BEL,MF,Nott'ham Forest,24,17.2,514,411,11,508,4,1,6
+321,Javier Manquillo,es ESP,DF,Newcastle Utd,28,0.4,29,24,0,25,4,0,1
+322,Sekou Mara,fr FRA,"FW,MF",Southampton,20,6.2,107,68,4,102,2,0,1
+323,Solly March,eng ENG,"FW,DF",Brighton,28,30.2,1312,951,36,1168,142,29,155
+324,Emiliano Marcondes,dk DEN,MF,Bournemouth,27,0.1,1,1,0,1,0,0,0
+325,Marquinhos,br BRA,MF,Arsenal,19,0.0,3,2,0,3,0,0,0
+326,Anthony Martial,fr FRA,FW,Manchester Utd,26,10.9,328,263,14,314,12,0,4
+327,Gabriel Martinelli,br BRA,FW,Arsenal,21,31.0,1107,833,44,1013,88,2,113
+328,Emiliano Martínez,ar ARG,GK,Aston Villa,29,34.9,1388,1026,1,1043,340,5,0
+329,Lisandro Martínez,ar ARG,DF,Manchester Utd,24,23.5,1528,1330,7,1401,122,16,0
+330,Pape Matar Sarr,sn SEN,"MF,FW",Tottenham,19,2.4,154,141,0,150,4,1,0
+331,Jean-Philippe Mateta,fr FRA,FW,Crystal Palace,25,8.6,149,104,9,143,6,0,3
+332,Joël Matip,cm CMR,DF,Liverpool,30,12.1,885,766,5,873,11,5,1
+333,Neal Maupay,fr FRA,FW,Everton,25,12.4,253,190,10,222,30,1,3
+334,Kevin Mbabu,ch SUI,"DF,FW",Fulham,27,1.6,94,68,2,71,23,1,7
+335,Bryan Mbeumo,cm CMR,FW,Brentford,22,32.3,991,655,42,845,139,7,156
+336,James McArthur,sct SCO,MF,Crystal Palace,34,0.6,52,41,1,49,3,0,0
+337,Alex McCarthy,eng ENG,GK,Southampton,32,6.0,249,150,0,178,68,1,0
+338,John McGinn,sct SCO,"MF,FW",Aston Villa,27,29.9,1028,805,20,965,56,10,50
+339,Scott McKenna,sct SCO,DF,Nott'ham Forest,25,17.5,727,569,2,691,32,3,2
+340,Weston McKennie,us USA,MF,Leeds United,23,16.0,628,472,16,589,36,6,9
+341,Dwight McNeil,eng ENG,"FW,MF",Everton,22,27.8,987,656,49,838,142,6,194
+342,Scott McTominay,sct SCO,MF,Manchester Utd,25,12.9,432,355,6,426,5,3,4
+343,Ben Mee,eng ENG,DF,Brentford,32,36.3,1761,1348,20,1625,130,10,7
+344,Edouard Mendy,sn SEN,GK,Chelsea,30,9.5,289,233,0,220,69,1,0
+345,Nampalys Mendy,sn SEN,MF,Leicester City,30,8.4,413,362,11,399,12,2,1
+346,Chris Mepham,wls WAL,DF,Bournemouth,24,24.4,1041,870,7,1001,37,4,0
+347,Illan Meslier,fr FRA,GK,Leeds United,22,34.0,1039,664,2,705,331,1,0
+348,Alex Mighten,eng ENG,FW,Nott'ham Forest,20,0.1,1,1,0,1,0,0,0
+349,Lewis Miley,eng ENG,MF,Newcastle Utd,16,0.2,6,5,0,6,0,0,0
+350,Luka Milivojević,rs SRB,MF,Crystal Palace,31,5.7,260,207,0,248,11,2,6
+351,James Milner,eng ENG,"MF,DF",Liverpool,36,10.1,727,563,24,625,99,4,52
+352,Yerry Mina,co COL,DF,Everton,27,6.6,325,286,1,309,15,1,1
+353,Tyrone Mings,eng ENG,DF,Aston Villa,29,35.0,1899,1617,10,1811,85,15,3
+354,Tyrick Mitchell,eng ENG,DF,Crystal Palace,22,32.1,1607,1152,66,1234,370,2,70
+355,Kaoru Mitoma,jp JPN,"FW,MF",Brighton,25,25.8,977,780,33,952,19,3,41
+356,Aleksandar Mitrović,rs SRB,FW,Fulham,27,22.3,496,299,24,486,10,9,4
+357,Kieffer Moore,wls WAL,FW,Bournemouth,29,14.2,360,212,12,337,23,1,7
+358,Andrew Moran,ie IRL,FW,Brighton,18,0.1,2,1,0,1,1,0,0
+359,Álex Moreno,es ESP,DF,Aston Villa,29,14.8,745,581,32,609,134,0,48
+360,Mason Mount,eng ENG,"MF,FW",Chelsea,23,18.3,778,585,23,706,68,8,64
+361,Lucas Moura,br BRA,"MF,DF",Tottenham,29,1.7,89,62,6,83,6,0,9
+362,João Moutinho,pt POR,MF,Wolves,35,19.8,1057,850,20,936,116,6,59
+363,Divin Mubama,eng ENG,FW,West Ham,17,0.4,8,5,0,7,1,0,0
+364,Mykhailo Mudryk,ua UKR,"FW,MF",Chelsea,21,7.3,216,161,1,193,22,1,25
+365,Jacob Murphy,eng ENG,FW,Newcastle Utd,27,13.9,448,296,31,428,18,2,53
+366,Enock Mwepu,zm ZAM,"FW,MF",Brighton,24,2.4,78,61,3,76,2,1,3
+367,Vitaliy Mykolenko,ua UKR,DF,Everton,23,29.5,1292,966,30,1045,239,3,57
+368,Keylor Navas,cr CRC,GK,Nott'ham Forest,35,17.0,534,306,0,312,217,0,0
+369,Wilfred Ndidi,ng NGA,MF,Leicester City,25,18.7,899,754,19,868,31,5,2
+370,Reiss Nelson,eng ENG,FW,Arsenal,22,2.4,120,101,1,118,2,0,12
+371,Neto,br BRA,GK,Bournemouth,33,26.5,833,521,0,513,319,1,0
+372,Pedro Neto,pt POR,"FW,MF",Wolves,22,10.7,384,284,14,342,42,3,66
+373,Rúben Neves,pt POR,MF,Wolves,25,33.5,2106,1730,30,1945,153,24,53
+374,Moussa Niakhate,sn SEN,DF,Nott'ham Forest,26,12.9,391,265,8,293,98,0,2
+375,Rasmus Nissen,dk DEN,DF,Leeds United,25,21.8,1044,740,38,861,181,3,35
+376,Eddie Nketiah,eng ENG,FW,Arsenal,23,12.1,255,205,11,231,24,1,5
+377,Matheus Nunes,pt POR,MF,Wolves,23,27.4,1028,818,23,994,31,33,43
+378,Darwin Núñez,uy URU,FW,Liverpool,23,18.8,401,258,22,386,11,8,18
+379,Ethan Nwaneri,eng ENG,FW,Arsenal,15,0.0,0,0,0,0,0,0,0
+380,Christian Nørgaard,dk DEN,MF,Brentford,28,19.6,812,608,11,787,19,6,11
+381,Lewis O'Brien,eng ENG,MF,Nott'ham Forest,23,6.5,214,166,4,207,7,0,4
+382,Odeluga Offiah,eng ENG,DF,Brighton,19,0.3,30,24,0,29,1,0,0
+383,Angelo Ogbonna,it ITA,DF,West Ham,34,13.7,415,332,2,406,9,0,0
+384,Michael Olise,fr FRA,"FW,MF",Crystal Palace,20,30.5,1420,985,49,1189,229,21,242
+385,Robin Olsen,se SWE,GK,Aston Villa,32,3.1,131,74,1,89,40,1,0
+386,Amadou Onana,be BEL,MF,Everton,20,27.6,980,816,6,970,6,7,5
+387,Josh Onomah,eng ENG,MF,Fulham,25,0.2,6,4,1,6,0,0,0
+388,Paul Onuachu,ng NGA,FW,Southampton,28,4.5,91,55,4,90,1,2,0
+389,Frank Onyeka,ng NGA,MF,Brentford,24,9.4,257,193,9,255,1,1,2
+390,Mislav Oršić,hr CRO,MF,Southampton,29,0.1,3,2,0,2,1,0,0
+391,Stefan Ortega,de GER,GK,Manchester City,29,3.0,167,145,1,152,15,0,0
+392,Dango Ouattara,bf BFA,"MF,FW",Bournemouth,20,13.8,334,210,12,322,10,5,30
+393,Alex Oxlade-Chamberlain,eng ENG,"FW,MF",Liverpool,28,3.7,106,75,4,102,2,3,2
+394,David Ozoh,eng ENG,FW,Crystal Palace,17,0.0,3,3,0,3,0,0,0
+395,João Palhinha,pt POR,MF,Fulham,27,34.5,1274,1051,15,1222,48,38,3
+396,Cole Palmer,eng ENG,"MF,FW",Manchester City,20,4.1,193,167,1,191,2,1,7
+397,Emerson Palmieri,it ITA,DF,West Ham,27,14.7,729,572,27,606,121,0,47
+398,Lucas Paquetá,br BRA,MF,West Ham,24,23.9,1157,907,28,1075,73,11,22
+399,Thomas Partey,gh GHA,MF,Arsenal,29,27.6,1985,1731,20,1923,59,12,9
+400,Nathan Patterson,sct SCO,"DF,MF",Everton,20,14.2,649,488,14,503,145,0,39
+401,Ben Pearson,eng ENG,MF,Bournemouth,27,3.2,134,108,1,130,4,1,0
+402,Facundo Pellistri,uy URU,"FW,MF",Manchester Utd,20,0.7,16,15,0,15,1,0,0
+403,Andreas Pereira,br BRA,MF,Fulham,26,29.9,1068,701,39,826,231,21,196
+404,Ricardo Pereira,pt POR,"DF,MF",Leicester City,28,5.0,322,252,14,259,61,0,16
+405,Ayoze Pérez,es ESP,"MF,FW",Leicester City,29,4.2,171,118,11,156,14,0,17
+406,Ivan Perišić,hr CRO,"DF,MF",Tottenham,33,23.4,1121,713,43,895,221,13,196
+407,Romain Perraud,fr FRA,DF,Southampton,24,20.4,885,623,41,729,151,0,77
+408,Máximo Perrone,ar ARG,MF,Manchester City,19,0.2,21,18,1,20,0,0,0
+409,Cameron Peupion,au AUS,MF,Brighton,19,0.1,4,3,0,4,0,0,0
+410,Kalvin Phillips,eng ENG,MF,Manchester City,26,3.3,313,289,1,310,2,2,0
+411,Nathaniel Phillips,eng ENG,DF,Liverpool,25,0.7,82,71,0,80,2,2,0
+412,Jordan Pickford,eng ENG,GK,Everton,28,37.0,1312,749,1,823,484,7,0
+413,Ethan Pinnock,jm JAM,DF,Brentford,29,30.0,1149,914,5,1088,57,3,10
+414,Daniel Podence,pt POR,"FW,MF",Wolves,26,19.7,663,445,19,609,51,7,56
+415,Nick Pope,eng ENG,GK,Newcastle Utd,30,36.2,890,614,1,612,278,3,0
+416,Pedro Porro,es ESP,"DF,MF",Tottenham,22,12.6,648,465,29,525,121,4,77
+417,Dennis Praet,be BEL,"MF,FW",Leicester City,28,7.2,270,200,15,254,14,0,15
+418,Isaac Price,nir NIR,MF,Everton,18,0.4,14,12,0,14,0,0,1
+419,Christian Pulisic,us USA,"FW,DF",Chelsea,23,9.1,301,238,8,294,4,0,18
+420,Aaron Ramsdale,eng ENG,GK,Arsenal,24,38.0,1111,761,3,872,237,6,0
+421,Jacob Ramsey,eng ENG,"MF,FW",Aston Villa,21,29.3,889,728,26,880,3,3,18
+422,Marcus Rashford,eng ENG,FW,Manchester Utd,24,32.0,817,627,31,790,22,6,24
+423,David Raya,es ESP,GK,Brentford,26,38.0,1640,1054,1,1181,455,19,0
+424,Tim Ream,us USA,DF,Fulham,34,32.2,1922,1662,8,1858,59,25,4
+425,Nathan Redmond,eng ENG,DF,Southampton,28,0.0,1,0,0,1,0,0,1
+426,Harrison Reed,eng ENG,MF,Fulham,27,31.8,1281,988,46,1225,51,4,54
+427,Bobby Reid,jm JAM,"FW,DF",Fulham,29,27.5,907,636,35,829,74,2,53
+428,Declan Rice,eng ENG,MF,West Ham,23,36.4,2135,1846,26,2060,70,60,44
+429,Chris Richards,us USA,DF,Crystal Palace,22,5.0,203,169,1,190,13,0,0
+430,Richarlison,br BRA,"MF,FW",Tottenham,25,11.2,279,196,13,270,9,1,16
+431,Jaïro Riedewald,nl NED,"DF,MF",Crystal Palace,25,0.7,45,34,2,38,7,0,0
+432,Matt Ritchie,sct SCO,"FW,MF",Newcastle Utd,32,0.4,31,24,3,31,0,0,2
+433,Andrew Robertson,sct SCO,DF,Liverpool,28,28.7,2265,1803,41,1883,375,12,195
+434,Antonee Robinson,us USA,DF,Fulham,24,34.3,1910,1404,51,1582,327,5,134
+435,Joel Robles,es ESP,GK,Leeds United,32,4.0,122,63,0,70,52,0,0
+436,Marc Roca,es ESP,MF,Leeds United,25,25.7,1295,978,17,1188,102,10,76
+437,Marek Rodák,sk SVK,GK,Fulham,25,2.0,61,29,0,38,23,0,0
+438,Rodri,es ESP,MF,Manchester City,26,32.3,2987,2723,21,2943,43,26,6
+439,Rodrigo,es ESP,"FW,MF",Leeds United,31,21.5,550,389,9,492,53,10,21
+440,Mads Roerslev,dk DEN,DF,Brentford,23,12.3,303,194,21,282,21,0,20
+441,Cristian Romero,ar ARG,DF,Tottenham,24,26.3,1606,1407,24,1523,80,20,0
+442,Oriol Romeu,es ESP,MF,Southampton,30,0.8,30,28,0,30,0,0,1
+443,Cristiano Ronaldo,pt POR,FW,Manchester Utd,37,5.8,162,121,10,157,5,1,3
+444,Connor Ronan,ie IRL,MF,Wolves,24,0.0,4,3,0,3,1,0,1
+445,Salomón Rondón,ve VEN,FW,Everton,32,1.2,29,22,0,28,1,0,0
+446,Joe Rothwell,eng ENG,MF,Bournemouth,27,11.3,457,385,6,402,54,2,26
+447,Georginio Rutter,fr FRA,"FW,MF",Leeds United,20,3.0,62,31,5,59,2,0,0
+448,José Sá,pt POR,GK,Wolves,29,36.0,1200,837,1,854,341,3,0
+449,Marcel Sabitzer,at AUT,MF,Manchester Utd,28,7.0,307,237,7,293,9,3,4
+450,Allan Saint-Maximin,fr FRA,FW,Newcastle Utd,25,12.4,447,316,17,435,9,3,32
+451,Bukayo Saka,eng ENG,FW,Arsenal,20,35.3,1430,1054,62,1297,131,3,172
+452,Mohamed Salah,eg EGY,FW,Liverpool,30,36.6,1185,902,40,1146,29,3,38
+453,William Saliba,fr FRA,DF,Arsenal,21,26.8,1865,1698,8,1822,43,2,1
+454,Mohammed Salisu,gh GHA,DF,Southampton,23,21.9,1196,879,12,1075,115,10,13
+455,Albert Sambi Lokonga,be BEL,MF,Arsenal,22,2.2,140,132,1,135,5,1,0
+456,Albert Sambi Lokonga,be BEL,MF,Crystal Palace,22,6.0,264,228,2,250,10,1,0
+457,Davinson Sánchez,co COL,DF,Tottenham,26,9.5,594,515,10,583,10,1,2
+458,Robert Sánchez,es ESP,GK,Brighton,24,23.0,781,604,3,608,168,4,0
+459,Jadon Sancho,eng ENG,"FW,MF",Manchester Utd,22,18.7,776,647,28,760,14,3,17
+460,Morgan Sanson,fr FRA,MF,Aston Villa,27,0.1,7,5,0,7,0,0,0
+461,Pablo Sarabia,es ESP,"FW,MF",Wolves,30,8.5,365,252,15,324,39,3,46
+462,Jeremy Sarmiento,ec ECU,MF,Brighton,20,2.0,67,53,1,67,0,0,3
+463,Gianluca Scamacca,it ITA,FW,West Ham,23,10.3,177,118,7,173,3,8,1
+464,Gustavo Scarpa,br BRA,"MF,FW",Nott'ham Forest,28,2.0,78,51,5,72,6,2,4
+465,Kevin Schade,de GER,FW,Brentford,20,8.1,173,103,11,171,1,0,15
+466,Fabian Schär,ch SUI,DF,Newcastle Utd,30,35.6,1846,1423,19,1770,73,34,18
+467,Jeffrey Schlupp,gh GHA,"MF,FW",Crystal Palace,29,28.1,900,665,21,854,40,1,16
+468,Nélson Semedo,pt POR,DF,Wolves,28,29.2,1499,1211,34,1263,233,1,60
+469,Antoine Semenyo,gh GHA,"FW,MF",Bournemouth,22,2.9,57,38,2,53,4,1,1
+470,Marcos Senesi,ar ARG,DF,Bournemouth,25,27.7,1322,1064,18,1257,56,15,8
+471,Ryan Sessegnon,eng ENG,DF,Tottenham,22,9.0,390,280,19,318,72,1,30
+472,Luke Shaw,eng ENG,DF,Manchester Utd,27,28.4,2098,1757,37,1792,297,13,89
+473,Jonjo Shelvey,eng ENG,MF,Newcastle Utd,30,0.4,26,19,0,23,3,2,0
+474,Jonjo Shelvey,eng ENG,MF,Nott'ham Forest,30,6.0,302,221,1,271,31,6,13
+475,Bernardo Silva,pt POR,"MF,FW",Manchester City,27,24.5,1543,1317,27,1468,73,10,75
+476,Thiago Silva,br BRA,DF,Chelsea,37,26.1,2042,1856,8,1976,59,15,2
+477,Ellis Simms,eng ENG,FW,Everton,21,2.5,62,38,0,62,0,0,1
+478,Luis Sinisterra,co COL,FW,Leeds United,23,9.6,339,273,9,336,3,4,7
+479,Oliver Skipp,eng ENG,MF,Tottenham,21,16.6,772,660,14,755,12,4,10
+480,Adam Smith,eng ENG,DF,Bournemouth,31,32.7,1264,953,29,987,276,2,48
+481,Emile Smith Rowe,eng ENG,"MF,FW",Arsenal,22,1.9,85,74,1,81,4,0,5
+482,Cédric Soares,pt POR,DF,Arsenal,30,0.3,24,19,0,23,1,0,3
+483,Cédric Soares,pt POR,DF,Fulham,30,2.2,186,143,4,157,27,0,24
+484,Dominic Solanke,eng ENG,"FW,MF",Bournemouth,24,31.8,533,363,34,479,52,1,13
+485,Manor Solomon,il ISR,FW,Fulham,23,6.4,207,175,4,202,4,0,4
+486,Tomáš Souček,cz CZE,MF,West Ham,27,31.3,994,709,28,982,12,6,20
+487,Boubakary Soumaré,fr FRA,MF,Leicester City,23,18.1,902,776,19,895,7,2,2
+488,Harry Souttar,au AUS,DF,Leicester City,23,11.0,555,448,3,531,19,9,0
+489,Çağlar Söyüncü,tr TUR,DF,Leicester City,26,5.9,309,241,2,292,14,5,0
+490,Djed Spence,eng ENG,"FW,DF",Tottenham,21,0.1,9,5,2,9,0,0,0
+491,Jack Stacey,eng ENG,DF,Bournemouth,26,3.3,130,74,7,106,23,0,10
+492,Junior Stanislas,eng ENG,MF,Bournemouth,32,0.7,28,22,1,27,1,1,1
+493,Jay Stansfield,eng ENG,FW,Fulham,19,1.0,23,9,3,23,0,0,3
+494,Jason Steele,eng ENG,GK,Brighton,31,15.0,541,478,0,471,67,1,0
+495,Jack Stephens,eng ENG,DF,Southampton,28,0.5,28,23,0,25,3,0,0
+496,Jack Stephens,eng ENG,DF,Bournemouth,28,13.0,543,446,6,538,5,2,2
+497,Raheem Sterling,eng ENG,"FW,MF",Chelsea,27,21.0,685,514,33,662,21,0,46
+498,John Stones,eng ENG,"DF,MF",Manchester City,28,20.5,1563,1453,10,1496,66,14,6
+499,Pascal Struijk,nl NED,DF,Leeds United,22,24.4,1320,1046,26,1065,250,3,21
+500,Kamaldeen Sulemana,gh GHA,"FW,MF",Southampton,20,10.7,265,189,12,257,6,1,18
+501,Crysencio Summerville,nl NED,FW,Leeds United,20,15.8,411,308,15,402,6,1,14
+502,Sam Surridge,eng ENG,FW,Nott'ham Forest,24,3.6,81,40,3,77,3,0,3
+503,Japhet Tanganga,eng ENG,DF,Tottenham,23,1.6,92,82,0,91,1,0,1
+504,Matt Targett,eng ENG,DF,Newcastle Utd,26,6.8,419,326,11,327,91,3,34
+505,James Tarkowski,eng ENG,DF,Everton,29,38.0,1633,1322,4,1578,48,18,0
+506,Marcus Tavernier,eng ENG,"MF,FW",Bournemouth,23,19.4,724,510,28,623,100,7,93
+507,Tetê,br BRA,FW,Leicester City,22,8.2,258,186,10,235,20,4,19
+508,Kenny Tete,nl NED,DF,Fulham,26,28.5,1530,1110,48,1176,344,10,99
+509,Luke Thomas,eng ENG,DF,Leicester City,21,11.9,654,521,22,519,133,1,9
+510,Youri Tielemans,be BEL,MF,Leicester City,25,26.0,1623,1303,38,1517,100,8,45
+511,Kieran Tierney,sct SCO,DF,Arsenal,25,8.8,486,362,11,415,67,1,24
+512,Harry Toffolo,eng ENG,DF,Nott'ham Forest,26,10.4,387,242,12,313,72,1,29
+513,Takehiro Tomiyasu,jp JPN,DF,Arsenal,23,7.4,474,384,9,420,53,2,12
+514,James Tomkins,eng ENG,DF,Crystal Palace,33,3.8,171,138,3,164,7,0,0
+515,Ivan Toney,eng ENG,FW,Brentford,26,32.8,787,468,31,751,29,3,34
+516,Adama Traoré,es ESP,"FW,MF",Wolves,26,16.6,494,325,27,491,1,0,81
+517,Bertrand Traoré,bf BFA,"FW,MF",Aston Villa,26,2.6,75,59,5,72,2,2,5
+518,Boubacar Traoré,ml MLI,MF,Wolves,20,4.6,149,118,2,146,0,0,1
+519,Mark Travers,ie IRL,GK,Bournemouth,23,11.5,368,281,0,214,154,0,0
+520,Kieran Trippier,eng ENG,DF,Newcastle Utd,31,37.1,2788,1995,50,2061,714,16,393
+521,Leandro Trossard,be BEL,FW,Arsenal,27,10.3,452,347,19,402,47,6,55
+522,Leandro Trossard,be BEL,"FW,MF",Brighton,27,14.6,529,379,20,498,28,8,35
+523,Kostas Tsimikas,gr GRE,DF,Liverpool,26,8.6,618,474,9,470,146,2,85
+524,Deniz Undav,de GER,"FW,MF",Brighton,26,7.0,164,122,4,159,4,1,1
+525,Yan Valery,tn TUN,DF,Southampton,23,0.5,23,15,1,23,0,0,1
+526,Virgil van Dijk,nl NED,DF,Liverpool,31,31.5,2592,2345,9,2492,99,31,1
+527,Raphaël Varane,fr FRA,DF,Manchester Utd,29,21.2,1106,954,6,1073,30,4,1
+528,Jamie Vardy,eng ENG,FW,Leicester City,35,20.6,263,137,9,239,23,1,7
+529,Joël Veltman,nl NED,DF,Brighton,30,24.3,1512,1261,29,1286,219,3,23
+530,Fabio Vieira,pt POR,"MF,FW",Arsenal,22,5.7,290,234,7,276,14,0,20
+531,Matías Viña,uy URU,DF,Bournemouth,24,5.1,185,140,6,142,43,0,4
+532,Rúben Vinagre,pt POR,"DF,MF",Everton,23,0.3,24,15,1,19,5,0,2
+533,Carlos Vinícius,br BRA,FW,Fulham,27,12.3,189,119,12,181,7,0,6
+534,Theo Walcott,eng ENG,"FW,MF",Southampton,33,12.5,262,180,3,256,6,0,21
+535,Kyle Walker,eng ENG,DF,Manchester City,32,21.8,1892,1661,18,1732,158,21,28
+536,Kyle Walker-Peters,eng ENG,DF,Southampton,25,29.4,1324,1019,51,1046,274,1,50
+537,Aaron Wan-Bissaka,eng ENG,DF,Manchester Utd,24,15.9,840,706,22,715,123,2,14
+538,Danny Ward,wls WAL,GK,Leicester City,29,26.0,945,708,2,679,261,4,0
+539,Joel Ward,eng ENG,DF,Crystal Palace,32,25.1,1223,921,29,1014,208,2,36
+540,James Ward-Prowse,eng ENG,MF,Southampton,27,37.5,2176,1716,36,1840,329,14,241
+541,Ollie Watkins,eng ENG,FW,Aston Villa,26,34.7,566,391,13,554,9,2,9
+542,Adam Webster,eng ENG,DF,Brighton,27,22.1,1715,1514,10,1650,63,6,2
+543,Wout Weghorst,nl NED,"FW,MF",Manchester Utd,29,8.9,207,151,6,206,1,1,0
+544,Danny Welbeck,eng ENG,FW,Brighton,31,20.6,442,373,7,416,24,0,0
+545,Ben White,eng ENG,DF,Arsenal,24,33.9,2242,1888,27,1951,285,13,57
+546,Harvey White,eng ENG,MF,Tottenham,20,0.1,8,3,0,6,2,0,3
+547,Joseph Whitworth,eng ENG,GK,Crystal Palace,18,2.0,83,61,0,63,20,0,0
+548,Neco Williams,wls WAL,DF,Nott'ham Forest,21,20.9,840,533,38,651,182,7,89
+549,Willian,br BRA,FW,Fulham,33,23.6,912,712,20,860,49,12,60
+550,Joe Willock,eng ENG,MF,Newcastle Utd,22,28.4,951,777,18,922,25,3,51
+551,Callum Wilson,eng ENG,FW,Newcastle Utd,30,20.9,242,160,23,234,7,3,6
+552,Harry Wilson,wls WAL,FW,Fulham,25,12.2,404,310,16,383,20,3,22
+553,Yoane Wissa,cd COD,FW,Brentford,25,17.8,344,238,15,334,7,2,12
+554,Maximilian Wöber,at AUT,DF,Leeds United,24,14.1,684,483,10,638,43,2,7
+555,Chris Wood,nz NZL,FW,Newcastle Utd,30,5.0,106,66,1,105,1,0,0
+556,Chris Wood,nz NZL,FW,Nott'ham Forest,30,4.1,71,43,0,71,0,1,0
+557,Joe Worrall,eng ENG,DF,Nott'ham Forest,25,24.7,1157,891,9,1058,97,8,3
+558,Granit Xhaka,ch SUI,MF,Arsenal,29,33.3,1632,1382,27,1574,55,6,39
+559,Ryan Yates,eng ENG,MF,Nott'ham Forest,24,20.4,592,455,17,526,62,6,8
+560,Ashley Young,eng ENG,DF,Aston Villa,37,22.6,1188,897,28,945,235,12,42
+561,Illia Zabarnyi,ua UKR,DF,Bournemouth,19,3.3,200,184,0,197,2,0,0
+562,Wilfried Zaha,ci CIV,"FW,MF",Crystal Palace,29,25.4,650,502,25,628,20,1,39
+563,Denis Zakaria,ch SUI,MF,Chelsea,25,4.6,179,158,5,177,2,1,1
+564,Jordan Zemura,zw ZIM,DF,Bournemouth,22,16.2,594,423,30,466,127,1,18
+565,Oleksandr Zinchenko,ua UKR,DF,Arsenal,25,23.5,1911,1652,29,1703,203,12,37
+566,Hakim Ziyech,ma MAR,"FW,MF",Chelsea,29,7.3,400,258,15,349,47,3,66
+567,Kurt Zouma,fr FRA,DF,West Ham,27,22.1,831,701,3,801,28,14,0
+568,Martin Ødegaard,no NOR,MF,Arsenal,23,34.7,1804,1449,45,1683,110,9,91
